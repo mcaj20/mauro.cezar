@@ -17,5 +17,4 @@ Protofolio de Mauro Cezar
 
 ## ❤ Contato
 
-  📧 mcaj20@gmail.com
-  - (31)99725-1209 - WhatsApp
+📧mcaj20@gmail.com- (31)99725-1209 - WhatsApp
