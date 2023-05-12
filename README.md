@@ -1,6 +1,6 @@
 # Personal Page
 
-![preview](./assets/preview1.png.png)
+![preview](./assets/preview1.png)
 
 > Card Personal
 
