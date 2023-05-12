@@ -1,6 +1,6 @@
 # Personal Page
 
-![preview](./assets/preview1.png.png)
+![preview](![preview1](https://github.com/mcaj20/mauro.cezar/assets/94900871/72743ca0-8f24-4209-ba60-e3f64b614da8))
 
 > Card Personal
 
